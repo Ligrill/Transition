@@ -1,0 +1,26 @@
+
+
+
+.zoom {
+
+    padding: 50px;
+    background-color: darkblue;
+    transition: transform .2s;
+    
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+
+
+}
+.zoom:hover {
+    transform: scale(2); 
+    background-color: darkmagenta;
+
+  }
+
+  
+  
+
+
+
